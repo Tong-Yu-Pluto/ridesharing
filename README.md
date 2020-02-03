@@ -5,7 +5,7 @@
 
 #### 论文列表
 
-##### ICDE (CCF-A类会议)
+##### ICDE (CCF-A)
 
 1. [ 2013: ](https://ieeexplore.ieee.org/document/6544843)T-share: A large-scale dynamic taxi ridesharing service.  
 
@@ -20,3 +20,19 @@
 6. [ 2019: ](https://ieeexplore.ieee.org/document/8731569)An Efficient Insertion Operator in Dynamic Ridesharing Services.
 
 7. [ 2019: ](https://ieeexplore.ieee.org/document/8731585)A Queueing-Theoretic Framework for Vehicle Dispatching in Dynamic Car-Hailing.
+   
+
+##### WWW (CCF-A)
+
+1. [ 2017: ](https://dl.acm.org/doi/10.1145/3041021.3054194)Analyzing Uber's Ride-sharing Economy.
+
+2. [ 2018: ](https://dl.acm.org/doi/10.1145/3178876.3186134)On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi.
+
+3. [ 2018: ](https://dl.acm.org/doi/10.1145/3184558.3186924)Optimal Vehicle Dispatching for Ride-sharing Platforms via Dynamic Pricing.
+
+4. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313579)Globally-Optimized Realtime Supply-Demand Matching in On-Demand Ridesharing.
+
+5. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313433)Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning.
+
+6. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313465)Beyond Shortest Paths: Route Recommendations for Ride-sharing.
+ 
