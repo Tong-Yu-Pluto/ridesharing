@@ -32,3 +32,13 @@
 4. [ 2018: ](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf)A unified approach to route planning for shared mobility.
 5. [ 2019: ](http://www.vldb.org/pvldb/vol12/p1085-pan.pdf)Ridesharing: Simulator, Benchmark, and Evaluation.
 
+##### IJCAI (CCF-A)
+
+1. [ 2009: ](https://www.ijcai.org/Proceedings/09/Papers/041.pdf)Collaboration and Shared Plans in the Open World: Studies of Ridesharing.
+2. [ 2011: ](https://www.ijcai.org/Proceedings/11/Papers/055.pdf)A Mechanism for Dynamic Ride Sharing Based on Parallel Auctions.
+3. [ 2013: ](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6779/7177)Dynamic Taxi and Ridesharing: A Framework and Heuristics for the Optimization Problem.
+4. [ 2015: ](https://www.ijcai.org/Proceedings/15/Papers/374.pdf)Abstract Routing Models and Abstractions in the Context of Vehicle Routing.
+5. [ 2016: ](https://www.ijcai.org/Proceedings/16/Papers/074.pdf)An Online Mechanism for Ridesharing in Autonomous Mobility-on-Demand Systems.
+6. [ 2019: ](https://www.ijcai.org/Proceedings/2019/0079.pdf)Ridesharing with Driver Location Preferences.
+7. [ 2019: ](https://www.ijcai.org/Proceedings/2019/0958.pdf)Deep Reinforcement Learning for Ride-sharing Dispatching and Repositioning.
+8. [ 2019: ](https://www.ijcai.org/Proceedings/2019/0024.pdf)Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices.
