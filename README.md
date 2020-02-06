@@ -11,7 +11,7 @@
 
 ##### ICDE (CCF-A)
 
-1. [ 2013: ](https://ieeexplore.ieee.org/document/6544843)T-share: A large-scale dynamic taxi ridesharing service.[ note ](https://tong-yu-pluto.github.io/post/2020-2-4-1/)  
+1. [ 2013: ](https://ieeexplore.ieee.org/document/6544843)T-share: A large-scale dynamic taxi ridesharing service.[note](https://tong-yu-pluto.github.io/post/2020-2-4-1/)  
 2. [ 2017: ](https://ieeexplore.ieee.org/document/7929980)DeepSD: Supply-Demand Prediction for Online Car-Hailing Services Using Deep Neural Networks.
 3. [ 2017: ](https://ieeexplore.ieee.org/document/7930052)Xhare-a-Ride: A Search Optimized Dynamic Ride Sharing System with Approximation Guarantee.
 4. [ 2018: ](https://ieeexplore.ieee.org/document/8509320)Price-and-Time-Aware Dynamic Ridesharing.
@@ -40,7 +40,7 @@
 
 1. [ 2009: ](https://www.ijcai.org/Proceedings/09/Papers/041.pdf)Collaboration and Shared Plans in the Open World: Studies of Ridesharing.
 2. [ 2011: ](https://www.ijcai.org/Proceedings/11/Papers/055.pdf)A Mechanism for Dynamic Ride Sharing Based on Parallel Auctions.
-3. [ 2013: ](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6779/7177)Dynamic Taxi and Ridesharing: A Framework and Heuristics for the Optimization Problem.
+3. [ 2013: ](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6779/7177)Dynamic Taxi and Ridesharing: A Framework and Heuristics for the Optimization Problem.[note](https://tong-yu-pluto.github.io/post/2020-2-5-1/)
 4. [ 2015: ](https://www.ijcai.org/Proceedings/15/Papers/374.pdf)Abstract Routing Models and Abstractions in the Context of Vehicle Routing.
 5. [ 2016: ](https://www.ijcai.org/Proceedings/16/Papers/074.pdf)An Online Mechanism for Ridesharing in Autonomous Mobility-on-Demand Systems.
 6. [ 2019: ](https://www.ijcai.org/Proceedings/2019/0079.pdf)Ridesharing with Driver Location Preferences.
