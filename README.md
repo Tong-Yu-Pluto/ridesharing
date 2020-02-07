@@ -30,7 +30,7 @@
  
 ##### PVLDB (CCF-A)
 
-1. [ 2014: ](http://www.vldb.org/pvldb/vol7/p2017-huang.pdf)Large Scale Real-time Ridesharing with Service Guarantee on Road Networks.
+1. [ 2014: ](http://www.vldb.org/pvldb/vol7/p2017-huang.pdf)Large Scale Real-time Ridesharing with Service Guarantee on Road Networks.[note](https://tong-yu-pluto.github.io/post/2020-2-7-1/)
 2. [ 2018: ](http://www.vldb.org/pvldb/vol11/p853-zheng.pdf)Order Dispatch in Price-aware Ridesharing.
 3. [ 2018: ](http://www.vldb.org/pvldb/vol11/p1938-chen.pdf)PTRider: A Price-and-Time-Aware Ridesharing System.
 4. [ 2018: ](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf)A unified approach to route planning for shared mobility.
