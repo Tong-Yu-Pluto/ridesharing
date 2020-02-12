@@ -12,7 +12,7 @@
 ##### ICDE (CCF-A)
 
 1. [ 2013: ](https://ieeexplore.ieee.org/document/6544843)T-share: A large-scale dynamic taxi ridesharing service.[note](https://tong-yu-pluto.github.io/post/2020-2-4-1/)  
-2. [ 2017: ](https://ieeexplore.ieee.org/document/7929980)DeepSD: Supply-Demand Prediction for Online Car-Hailing Services Using Deep Neural Networks.
+2. [ 2017: ](https://ieeexplore.ieee.org/document/7929980)DeepSD: Supply-Demand Prediction for Online Car-Hailing Services Using Deep Neural Networks.[note](https://tong-yu-pluto.github.io/post/2020-2-10-1/)
 3. [ 2017: ](https://ieeexplore.ieee.org/document/7930052)Xhare-a-Ride: A Search Optimized Dynamic Ride Sharing System with Approximation Guarantee.
 4. [ 2018: ](https://ieeexplore.ieee.org/document/8509320)Price-and-Time-Aware Dynamic Ridesharing.
 5. [ 2019: ](https://ieeexplore.ieee.org/document/8731370)Auction-Based Order Dispatch and Pricing in Ridesharing.
