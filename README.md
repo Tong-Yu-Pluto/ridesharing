@@ -17,7 +17,7 @@
 4. [ 2018: ](https://ieeexplore.ieee.org/document/8509320)Price-and-Time-Aware Dynamic Ridesharing.[note](https://tong-yu-pluto.github.io/post/2020-2-17-1/)
 5. [ 2019: ](https://ieeexplore.ieee.org/document/8731370)Auction-Based Order Dispatch and Pricing in Ridesharing.[note](https://tong-yu-pluto.github.io/post/2020-2-22-1/)
 6. [ 2019: ](https://ieeexplore.ieee.org/document/8731569)An Efficient Insertion Operator in Dynamic Ridesharing Services.
-7. [ 2019: ](https://ieeexplore.ieee.org/document/8731585)A Queueing-Theoretic Framework for Vehicle Dispatching in Dynamic Car-Hailing.
+7. [ 2019: ](https://ieeexplore.ieee.org/document/8731585)A Queueing-Theoretic Framework for Vehicle Dispatching in Dynamic Car-Hailing.[note](https://tong-yu-pluto.github.io/post/2020-2-23-1/)
    
 ##### WWW (CCF-A)
 
