@@ -21,7 +21,7 @@
    
 ##### WWW (CCF-A)
 
-1. [ 2017: ](https://dl.acm.org/doi/10.1145/3041021.3054194)Analyzing Uber's Ride-sharing Economy.
+1. [ 2017: ](https://dl.acm.org/doi/10.1145/3041021.3054194)Analyzing Uber's Ride-sharing Economy.[note](https://tong-yu-pluto.github.io/post/2020-2-26-1/)
 2. [ 2018: ](https://dl.acm.org/doi/10.1145/3178876.3186134)On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi.
 3. [ 2018: ](https://dl.acm.org/doi/10.1145/3184558.3186924)Optimal Vehicle Dispatching for Ride-sharing Platforms via Dynamic Pricing.
 4. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313579)Globally-Optimized Realtime Supply-Demand Matching in On-Demand Ridesharing.
