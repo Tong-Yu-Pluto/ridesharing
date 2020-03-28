@@ -22,11 +22,10 @@
 ##### WWW (CCF-A)
 
 1. [ 2017: ](https://dl.acm.org/doi/10.1145/3041021.3054194)Analyzing Uber's Ride-sharing Economy.[note](https://tong-yu-pluto.github.io/post/2020-2-26-1/)
-2. [ 2018: ](https://dl.acm.org/doi/10.1145/3178876.3186134)On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi.
-3. [ 2018: ](https://dl.acm.org/doi/10.1145/3184558.3186924)Optimal Vehicle Dispatching for Ride-sharing Platforms via Dynamic Pricing.
-4. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313579)Globally-Optimized Realtime Supply-Demand Matching in On-Demand Ridesharing.
-5. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313433)Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning.
-6. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313465)Beyond Shortest Paths: Route Recommendations for Ride-sharing.
+2. [ 2018: ](https://dl.acm.org/doi/10.1145/3184558.3186924)Optimal Vehicle Dispatching for Ride-sharing Platforms via Dynamic Pricing.
+3. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313579)Globally-Optimized Realtime Supply-Demand Matching in On-Demand Ridesharing.
+4. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313433)Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning.
+5. [ 2019: ](https://dl.acm.org/doi/10.1145/3308558.3313465)Beyond Shortest Paths: Route Recommendations for Ride-sharing.
  
 ##### PVLDB (CCF-A)
 
@@ -47,3 +46,20 @@
 7. [ 2019: ](https://www.ijcai.org/Proceedings/2019/0958.pdf)Deep Reinforcement Learning for Ride-sharing Dispatching and Repositioning.
 8. [ 2019: ](https://www.ijcai.org/Proceedings/2019/0024.pdf)Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices.
 
+
+
+
+#### 资源列表
+
+##### 出行数据集
+
+1. [滴滴盖亚计划的出行数据集](https://outreach.didichuxing.com/research/opendata/)2017年5月1日-10月31日海口市每天的订单数据，包含订单的起终点经纬度以及订单类型、出行品类、乘车人数的订单属性数据。
+2. [纽约出租车订单数据集](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)2009年至今的纽约出租车订单数据集，由于绿色出租车只能在限定地区接客，建议使用黄色出租车的数据。
+
+##### 地图数据集
+
+1. [OpenStreetMap](https://download.geofabrik.de/)一个开源地图协作计划，几乎包含了全世界各地的街道地图。但是它将台湾从中国地图中分割了出去，其心可诛。
+
+##### 其他
+
+1. [OpenTripPlanner](http://docs.opentripplanner.org/en/latest/)一个开源的路径规划平台。
