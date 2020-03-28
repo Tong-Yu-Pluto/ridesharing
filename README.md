@@ -51,15 +51,15 @@
 
 #### 资源列表
 
-##### 出行数据集
++ 出行数据集
 
-1. [滴滴盖亚计划的出行数据集](https://outreach.didichuxing.com/research/opendata/)2017年5月1日-10月31日海口市每天的订单数据，包含订单的起终点经纬度以及订单类型、出行品类、乘车人数的订单属性数据。
-2. [纽约出租车订单数据集](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)2009年至今的纽约出租车订单数据集，由于绿色出租车只能在限定地区接客，建议使用黄色出租车的数据。
+  1. [滴滴盖亚计划的出行数据集: ](https://outreach.didichuxing.com/research/opendata/)2017年5月1日-10月31日海口市每天的订单数据，包含订单的起终点经纬度以及订单类型、出行品类、乘车人数的订单属性数据。
+  2. [纽约出租车订单数据集: ](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)2009年至今的纽约出租车订单数据集，由于绿色出租车只能在限定地区接客，建议使用黄色出租车的数据。
 
-##### 地图数据集
++ 地图数据集
 
-1. [OpenStreetMap](https://download.geofabrik.de/)一个开源地图协作计划，几乎包含了全世界各地的街道地图。但是它将台湾从中国地图中分割了出去，其心可诛。
+  1. [OpenStreetMap: ](https://download.geofabrik.de/)一个开源地图协作计划，几乎包含了全世界各地的街道地图。但是它将台湾从中国地图中分割了出去，其心可诛。
 
-##### 其他
++ 其他
 
-1. [OpenTripPlanner](http://docs.opentripplanner.org/en/latest/)一个开源的路径规划平台。
+  1. [OpenTripPlanner: ](http://docs.opentripplanner.org/en/latest/)一个开源的路径规划平台。
