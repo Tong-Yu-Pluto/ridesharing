@@ -58,8 +58,14 @@
 
 + 地图数据集
 
-  1. [OpenStreetMap: ](https://download.geofabrik.de/)一个开源地图协作计划，几乎包含了全世界各地的街道地图。但是它将台湾从中国地图中分割了出去，其心可诛。
+  1. [OpenStreetMap: ](https://download.geofabrik.de/)一个开源地图协作计划，几乎包含了全世界各地的街道地图。
 
 + 其他
 
   1. [OpenTripPlanner: ](http://docs.opentripplanner.org/en/latest/)一个开源的路径规划平台。
+
+#### 用到的Python库
+
+1. `networkx`: 处理图/网络
+2. `pyshp`: 处理shapefile文件
+  
