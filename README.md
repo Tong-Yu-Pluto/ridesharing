@@ -75,7 +75,7 @@
 
 #### 子方向论文列表
 
-##### 共享移动中的定价以及费用分摊问题(正在调研)
+##### 共享移动中的定价以及费用分摊问题(正在调研中)
 
 1. Auction-Based Order Dispatch and Pricing in Ridesharing.(ICDE 2019)
 2. Throughput and Pricing of Ridesharing Systems.(INFOCOM 2019)
