@@ -3,7 +3,7 @@
 #### 项目介绍
 关于 ride-sharing & vehicle-sharing 方向的论文调研和实验代码
 
-#### 论文列表
+#### 总论文列表
 
 ##### Nature
 
@@ -34,6 +34,7 @@
 3. [ 2018: ](http://www.vldb.org/pvldb/vol11/p1938-chen.pdf)PTRider: A Price-and-Time-Aware Ridesharing System.
 4. [ 2018: ](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf)A unified approach to route planning for shared mobility.
 5. [ 2019: ](http://www.vldb.org/pvldb/vol12/p1085-pan.pdf)Ridesharing: Simulator, Benchmark, and Evaluation.
+6. [ 2020: ]()Demand-Aware Route Planning for Shared Mobility Services.
 
 ##### IJCAI (CCF-A)
 
@@ -54,7 +55,8 @@
 + 出行数据集
 
   1. [滴滴盖亚计划的出行数据集: ](https://outreach.didichuxing.com/research/opendata/)2017年5月1日-10月31日海口市每天的订单数据，包含订单的起终点经纬度以及订单类型、出行品类、乘车人数的订单属性数据。
-  2. [纽约出租车订单数据集: ](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)2009年至今的纽约出租车订单数据集，由于绿色出租车只能在限定地区接客，建议使用黄色出租车的数据。
+  2. [KDD Cup 2020 数据集: ](https://gaia.didichuxing.com/en)2016年11月成都的出行数据集，包括六边形网格数据、订单取消概率、空车转移概率、订单数据和轨迹数据。
+  3. [纽约出租车订单数据集: ](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)2009年至今的纽约出租车订单数据集，由于绿色出租车只能在限定地区接客，建议使用黄色出租车的数据。
 
 + 地图数据集
 
@@ -68,4 +70,13 @@
 
 1. `networkx`: 处理图/网络
 2. `pyshp`: 处理shapefile文件
-  
+3. `geopy`: 给定两点经纬度求之间的距离
+
+
+#### 子方向论文列表
+
+##### 共享移动中的定价以及费用分摊问题(正在调研)
+
+1. Auction-Based Order Dispatch and Pricing in Ridesharing.(ICDE 2019)
+2. Throughput and Pricing of Ridesharing Systems.(INFOCOM 2019)
+3. Dynamic Pricing in Spatial Crowdsourcing: A Matching-Based Approach.(SIGMOD 2018)
